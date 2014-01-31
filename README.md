@@ -4,7 +4,7 @@ Auskalo
 
 Android OS &amp; iOS. 
 
-> Auskalo, Euskara ikasi edo hobetzeko modu berri eta desberdin bat da. 
+> [Auskalo][1], Euskara ikasi edo hobetzeko modu berri eta desberdin bat da. 
 
 > Euskara maila guztientzat zuzenduta dago, zailtasun ezberdinak eskaintzen bai ditu. 
 
