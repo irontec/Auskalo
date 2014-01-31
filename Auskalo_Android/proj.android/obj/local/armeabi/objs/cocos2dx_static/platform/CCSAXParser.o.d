@@ -1,254 +1,194 @@
 obj/local/armeabi/objs/cocos2dx_static/platform/CCSAXParser.o: \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.cpp \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/parser.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlversion.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlexports.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/tree.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdio.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/android/api-level.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdint.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/posix_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/stddef.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/compiler.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/posix_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/kernel.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlstring.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlregexp.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/dict.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/hash.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/valid.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlerror.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/list.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlautomata.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/entities.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/encoding.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlIO.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/globals.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/SAX.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdlib.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/string.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/malloc.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/alloca.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/strings.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/memory.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xlink.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/SAX2.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlmemory.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/threads.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccMacros.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/math.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/limits.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/limits.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/limits.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/internal_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/limits.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/syslimits.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/time.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/time.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/time.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/siginfo.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCString.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccTypes.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.cpp \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/string.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypeInfo.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/climits \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/parser.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlversion.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlexports.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/tree.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdio.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/cdefs.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/android/api-level.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/string.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdint.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/posix_types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/stddef.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/api-level.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/compiler.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/malloc.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/posix_types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdlib.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/alloca.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/strings.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/kernel.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/types.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlstring.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlregexp.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/dict.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/hash.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/valid.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlerror.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/list.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/asm/types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlautomata.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/linux/types.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/entities.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/encoding.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlIO.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/globals.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/inttypes.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/SAX.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdlib.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/string.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/malloc.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/alloca.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/strings.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/memory.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xlink.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/SAX2.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/xmlmemory.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/third_party/android/prebuilt/libxml2/include/libxml/threads.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/functional:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccMacros.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypeInfo.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/math.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/climits:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/limits.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/limits.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/limits.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/internal_types.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/limits.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/syslimits.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/time.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/time.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/linux/time.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm/siginfo.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCString.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/sources/cxx-stl/gnu-libstdc++/4.6/include/functional:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccTypes.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
-
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h:
-
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h:
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg:

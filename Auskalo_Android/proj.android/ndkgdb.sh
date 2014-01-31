@@ -1,4 +1,4 @@
-APPNAME="Auskalo"
+APPNAME="auskalo"
 APP_ANDROID_NAME="com.irontec.auskalo"
 
 if [ -z "${SDK_ROOT+aaa}" ]; then

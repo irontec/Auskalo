@@ -1,4 +1,6 @@
-APPNAME="Auskalo"
+NDK_ROOT="/Applications/android-ndk"
+
+APPNAME="auskalo"
 
 # options
 

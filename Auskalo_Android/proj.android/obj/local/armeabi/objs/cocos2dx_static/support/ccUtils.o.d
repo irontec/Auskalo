@@ -1,5 +1,5 @@
 obj/local/armeabi/objs/cocos2dx_static/support/ccUtils.o: \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/ccUtils.cpp \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/ccUtils.h
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/ccUtils.cpp \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/ccUtils.h
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/ccUtils.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/ccUtils.h:

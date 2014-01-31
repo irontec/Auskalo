@@ -1,0 +1,1040 @@
+obj/local/armeabi/objs/game_shared/__/__/Classes/Scenes/GalderaScene.o: \
+ jni/../../Classes/Scenes/GalderaScene.cpp \
+ jni/../../Classes/Scenes/../Scenes/GalderaScene.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/cocos2d.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCAction.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInterval.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/ccGLStateCache.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/CCGLProgram.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/vec2.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/vec3.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/assert.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat3.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/utility.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/quaternion.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/plane.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/aabb.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/ray2.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/script_support/CCScriptSupport.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCAccelerometerDelegate.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouch.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCSet.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/set \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/map \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/list \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCProtocols.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTexture2D.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCAction.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCAnimation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/functional \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/vector \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionCamera.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInterval.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionManager.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionEase.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionPageTurn3D.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid3D.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInstant.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypeInfo.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionProgressTimer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid3D.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionTiledGrid.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInstant.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionTween.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionCatmullRom.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCAtlasNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAutoreleasePool.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCInteger.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCFloat.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDouble.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCBool.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCNS.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCZone.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/draw_nodes/CCDrawingPrimitives.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/draw_nodes/CCDrawNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/effects/CCGrabber.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCConfiguration.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/effects/CCGrid.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCCamera.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCDirector.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCEventType.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCProtocols.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/matrix.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../mat4.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../vec3.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelTTF.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSprite.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTextureAtlas.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelBMFont.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteBatchNode.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/sstream \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCLayer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenu.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCClippingNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCMotionStreak.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCProgressTimer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCRenderTexture.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleBatchNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleExamples.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCDevice.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCImage.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCThread.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/platform.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCThread.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCApplication.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCApplicationProtocol.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCEGLView.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCEGLViewProtocol.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/CCShaderCache.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/ccShaders.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCAnimationCache.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrameCache.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/ccUTF8.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCNotificationCenter.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCPointExtension.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCProfiling.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/user_default/CCUserDefault.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCVertex.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/climits \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDispatcher.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCTextFieldTTF.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTextureCache.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTexturePVR.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchHandler.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCScheduler.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/component/CCComponent.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/component/CCComponentContainer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/cocos-ext.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/ExtensionMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBFileLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCInvocation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/../../ExtensionMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBReader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/ExtensionMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequence.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequenceProperty.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBKeyframe.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBValue.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBMemberVariableAssigner.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBReader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSelectorResolver.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlButtonLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControl.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCInvocation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControlUtils.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControlButton.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControl.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCScale9Sprite.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLabelBMFontLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLabelTTFLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerColorLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerGradientLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemImageLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderLibrary.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderListener.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCParticleSystemQuadLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScale9SpriteLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScale9SpriteLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCScale9Sprite.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScrollViewLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCScrollView/CCScrollView.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCSpriteLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBAnimationManager.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBKeyframe.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequence.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequenceProperty.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBValue.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCData.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNode+CCBRelativePositioning.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlExtensions.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCScale9Sprite.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControl.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlButton.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlColourPicker.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlUtils.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlHuePicker.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCInvocation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlPotentiometer.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSlider.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlStepper.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSwitch.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCScrollView.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCTableView.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCScrollView.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCTableViewCell.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCSorting.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCEditBox/CCEditBox.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCEditBox/../CCControlExtension/CCControlExtensions.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpRequest.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpResponse.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpRequest.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpClient.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpResponse.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/physics_nodes/CCPhysicsDebugNode.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/chipmunk.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/chipmunk_types.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpVect.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpBB.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpSpatialIndex.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpBody.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpShape.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpPolyShape.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpArbiter.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpConstraint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpPinJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpGearJoint.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpSpace.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/physics_nodes/CCPhysicsSprite.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/spine-cocos2dx.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/spine.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Animation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AnimationState.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AnimationStateData.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SkeletonData.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/BoneData.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SlotData.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Skin.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Attachment.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Atlas.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AtlasAttachmentLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AttachmentLoader.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Bone.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/RegionAttachment.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Slot.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Skeleton.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SkeletonJson.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/CCSkeleton.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/CCSkeletonAnimation.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComAttribute.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComAudio.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComController.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCInputDelegate.h \
+ jni/../../Classes/Scenes/../Scenes/../Models/MultzoaModel.h \
+ jni/../../Classes/Scenes/../Scenes/../Models/../Helpers/json/cJSON.h \
+ jni/../../Classes/Scenes/../Scenes/../Models/GalderaModel.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/SQLHelper.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/fstream \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/SQLite/sqlite3.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/GalderaModel.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/KategoriaModel.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/../Helpers/json/cJSON.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/MultzoaModel.h \
+ jni/../../Classes/Scenes/../Helpers/VisibleRect.h \
+ jni/../../Classes/Scenes/../Helpers/SpriteButton.h \
+ jni/../../Classes/Scenes/../Scenes/CategoryScene.h \
+ jni/../../Classes/Scenes/../Scenes/../Helpers/CCScrollLayer.h \
+ jni/../../Classes/Scenes/../Scenes/BukatutaScene.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../CocosDenshion/android/../include/Export.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderLibrary.h \
+ jni/../../Classes/Scenes/../Helpers/Globals.h
+
+jni/../../Classes/Scenes/../Scenes/GalderaScene.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/cocos2d.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCAction.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInterval.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdlib.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/alloca.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/strings.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/memory.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/ccCArray.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/ccGLStateCache.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/CCGLProgram.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/vec2.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/vec3.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/assert.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat3.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/utility.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/quaternion.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/plane.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/aabb.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/ray2.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/script_support/CCScriptSupport.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCAccelerometerDelegate.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCCommon.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouch.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCSet.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/set:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/map:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/list:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCProtocols.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTexture2D.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypes.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCAction.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCAnimation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDictionary.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/inttypes.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/functional:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrame.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/vector:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionCamera.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInterval.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionManager.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionEase.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionPageTurn3D.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid3D.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInstant.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccTypeInfo.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/typeinfo:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionProgressTimer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionGrid3D.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionTiledGrid.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionInstant.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionTween.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/actions/CCActionCatmullRom.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCAtlasNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/base_nodes/CCNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAutoreleasePool.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCInteger.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCFloat.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDouble.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCBool.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCNS.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCZone.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/draw_nodes/CCDrawingPrimitives.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/draw_nodes/CCDrawNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/effects/CCGrabber.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCConfiguration.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCString.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/effects/CCGrid.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCCamera.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/mat4.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCDirector.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCArray.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCEventType.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/CCProtocols.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/kazmath.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/matrix.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../mat4.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/kazmath/include/kazmath/GL/../vec3.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDispatcher.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/keypad_dispatcher/CCKeypadDelegate.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelAtlas.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelTTF.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSprite.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTextureAtlas.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/label_nodes/CCLabelBMFont.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteBatchNode.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/sstream:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/iostream:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCLayer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCScene.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionPageTurn.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransition.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/layers_scenes_transitions_nodes/CCTransitionProgress.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenu.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/menu_nodes/CCMenuItem.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCClippingNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCMotionStreak.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCProgressTimer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/misc_nodes/CCRenderTexture.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleBatchNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleExamples.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystem.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/particle_nodes/CCParticleSystemQuad.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCDevice.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCFileUtils.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCImage.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCSAXParser.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCThread.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/platform.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCThread.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCAccelerometer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCApplication.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCApplicationProtocol.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCEGLView.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCEGLViewProtocol.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCStdC.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/CCShaderCache.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/shaders/ccShaders.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCAnimationCache.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/sprite_nodes/CCSpriteFrameCache.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/ccUTF8.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCNotificationCenter.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCPointExtension.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCProfiling.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/user_default/CCUserDefault.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/CCVertex.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/tinyxml2/tinyxml2.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/climits:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdio:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdlib:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstring:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/cstdarg:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDispatcher.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCIMEDelegate.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/text_input_node/CCTextFieldTTF.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTextureCache.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/textures/CCTexturePVR.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCParallaxNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXLayer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXObjectGroup.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXTiledMap.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTMXXMLParser.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/tilemap_parallax_nodes/CCTileMapAtlas.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDelegateProtocol.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchHandler.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/touch_dispatcher/CCTouchDispatcher.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/CCScheduler.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/data_support/uthash.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/component/CCComponent.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/component/CCComponentContainer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/cocos-ext.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/ExtensionMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBFileLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCInvocation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/../../ExtensionMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBReader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/ExtensionMacros.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequence.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequenceProperty.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBKeyframe.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBValue.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBMemberVariableAssigner.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBReader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSelectorResolver.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlButtonLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControl.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCInvocation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControlUtils.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControlButton.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCControl.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCScale9Sprite.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCControlLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLabelBMFontLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLabelTTFLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerColorLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerGradientLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCLayerLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemImageLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuItemLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCMenuLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderLibrary.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderListener.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCParticleSystemQuadLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScale9SpriteLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScale9SpriteLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCControlExtension/CCScale9Sprite.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCScrollViewLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/../GUI/CCScrollView/CCScrollView.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCSpriteLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBAnimationManager.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBKeyframe.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequence.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBSequenceProperty.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCBValue.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCData.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNode+CCBRelativePositioning.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlExtensions.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCScale9Sprite.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControl.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlButton.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlColourPicker.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlUtils.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlHuePicker.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCInvocation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSaturationBrightnessPicker.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlPotentiometer.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSlider.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlStepper.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCControlExtension/CCControlSwitch.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCScrollView.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCTableView.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCScrollView.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCTableViewCell.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCScrollView/CCSorting.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCEditBox/CCEditBox.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/GUI/CCEditBox/../CCControlExtension/CCControlExtensions.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpRequest.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpResponse.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpRequest.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpClient.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/network/HttpResponse.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/physics_nodes/CCPhysicsDebugNode.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/chipmunk.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/chipmunk_types.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpVect.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpBB.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpSpatialIndex.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpBody.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpShape.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpPolyShape.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpArbiter.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpConstraint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpPinJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpSlideJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpPivotJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpGrooveJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpDampedSpring.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpDampedRotarySpring.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpRotaryLimitJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpRatchetJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpGearJoint.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/constraints/cpSimpleMotor.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../external/chipmunk/include/chipmunk/cpSpace.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/physics_nodes/CCPhysicsSprite.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/spine-cocos2dx.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/spine.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Animation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AnimationState.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AnimationStateData.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SkeletonData.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/BoneData.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SlotData.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Skin.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Attachment.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Atlas.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AtlasAttachmentLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/AttachmentLoader.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Bone.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/RegionAttachment.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Slot.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/Skeleton.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/SkeletonJson.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/CCSkeleton.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/spine/CCSkeletonAnimation.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComAttribute.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComAudio.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCComController.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/Components/CCInputDelegate.h:
+
+jni/../../Classes/Scenes/../Scenes/../Models/MultzoaModel.h:
+
+jni/../../Classes/Scenes/../Scenes/../Models/../Helpers/json/cJSON.h:
+
+jni/../../Classes/Scenes/../Scenes/../Models/GalderaModel.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/SQLHelper.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/fstream:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/SQLite/sqlite3.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/GalderaModel.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/KategoriaModel.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/../Helpers/json/cJSON.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/../Models/MultzoaModel.h:
+
+jni/../../Classes/Scenes/../Helpers/VisibleRect.h:
+
+jni/../../Classes/Scenes/../Helpers/SpriteButton.h:
+
+jni/../../Classes/Scenes/../Scenes/CategoryScene.h:
+
+jni/../../Classes/Scenes/../Scenes/../Helpers/CCScrollLayer.h:
+
+jni/../../Classes/Scenes/../Scenes/BukatutaScene.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../CocosDenshion/android/../include/SimpleAudioEngine.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../CocosDenshion/android/../include/Export.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../extensions/CCBReader/CCNodeLoaderLibrary.h:
+
+jni/../../Classes/Scenes/../Helpers/Globals.h:

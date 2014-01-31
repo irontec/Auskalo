@@ -1,53 +1,65 @@
 obj/local/armeabi/objs/cocos2dx_static/support/TransformUtils.o: \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/TransformUtils.cpp \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/TransformUtils.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdint.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/_types.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h \
- /Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
- /Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/TransformUtils.cpp \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/TransformUtils.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h \
+ /Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h \
+ /Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string \
+ /Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/support/TransformUtils.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/support/TransformUtils.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCGL.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2platform.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/KHR/khrplatform.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/stdint.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-/Users/imendilibar/Documents/Android/android-ndk-r8b/platforms/android-8/arch-arm/usr/include/GLES2/gl2ext.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCAffineTransform.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCGeometry.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformMacros.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/include/ccConfig.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/CCPlatformConfig.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/platform/android/CCPlatformDefine.h:
 
-/Users/imendilibar/Documents/Cocos/cocos2d-2.0-x-2.0.4/Auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/android/log.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCObject.h:
+
+/Applications/cocos2d-x-2.1.5/auskalo/proj.android/../../cocos2dx/cocoa/CCDataVisitor.h:
+
+/Applications/android-ndk/sources/cxx-stl/gnu-libstdc++/4.6/include/string:
+
+/Applications/android-ndk/platforms/android-9/arch-arm/usr/include/math.h:
