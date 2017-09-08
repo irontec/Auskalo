@@ -1,15 +1,7 @@
 # Auskalo
 
-
-Auskalo, Euskara ikasi edo hobetzeko modu berri eta desberdin bat da.
-
-Android OS &amp; iOS. 
-
-> Auskalo, Euskara ikasi edo hobetzeko modu berri eta desberdin bat da. 
-
-> Euskara maila guztientzat zuzenduta dago, zailtasun ezberdinak eskaintzen bai ditu. 
-
-> Ondo pasatzen duzun bitartean, euskera ikasten eta hobetzen arituko zara!
+![Auskalo](https://raw.githubusercontent.com/irontec/Auskalo/master/Resources/Icon-76%40x2.png)
+> Auskalo, Euskara ikasi edo hobetzeko modu berri eta desberdin bat da. Euskara maila guztientzat zuzenduta dago, zailtasun ezberdinak eskaintzen bai ditu. Ondo pasatzen duzun bitartean, euskera ikasten eta hobetzen arituko zara!
 
 
 ### Instalazioa
@@ -21,6 +13,16 @@ Android OS
 cd proj.android-studio
 
 cocos compile -p android -m release --android-studio
+
+```
+
+iOS
+
+```sh
+
+open proj.ios_mac/Auskalo.xcodeproj
+
+#compile and run with XCode
 
 ```
 
@@ -60,6 +62,6 @@ governing permissions and limitations under the Licence.
 
 **Free Software, Hell Yeah!**
 
-[1]:http://jakina.eus/
+[1]:http://auskalo.net
 [2]:http://www.cocos2d-x.org/
 [3]:http://source.android.com/
