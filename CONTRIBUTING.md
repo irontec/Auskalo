@@ -1,13 +1,13 @@
 ## Contributing
 
-First off, thank you for considering contributing to Android Kotlin Examples. 
+First off, thank you for considering contributing to Auskalo. 
 
 ### 1. Where do I go from here?
 
 If you've noticed a bug or have a question,
-[search the issue tracker](https://github.com/irontec/android-kotlin-samples/issues?q=something)
+[search the issue tracker](https://github.com/irontec/Auskalo/issues?q=something)
 to see if someone else has already created a ticket.
-If not, go ahead and [make one](https://github.com/irontec/android-kotlin-samples/issues/new)!
+If not, go ahead and [make one](https://github.com/irontec/Auskalo/issues/new)!
 
 ### 2. Fork & create a branch
 
@@ -23,9 +23,9 @@ git checkout -b 7-new-fix-for-fancy-functionality
 
 #### 3. Did you find a bug?
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/irontec/android-kotlin-samples/issues).
+* **Ensure the bug was not already reported** by searching on GitHub under [Issues](https://github.com/irontec/Auskalo/issues).
 
-* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/irontec/android-kotlin-samples/issues/new). 
+* If you're unable to find an open issue addressing the problem, [open a new one](https://github.com/irontec/Auskalo/issues/new). 
 Be sure to include a **title and clear description**, as much relevant information as possible, 
 and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
@@ -44,7 +44,7 @@ At this point, you should switch back to your master branch and make sure it's
 up to date with Active Admin's master branch:
 
 ```sh
-git remote add upstream git@github.com:irontec/android-kotlin-samples.git
+git remote add upstream git@github.com:irontec/Auskalo.git
 git checkout master
 git pull upstream master
 ```
